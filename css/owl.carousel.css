@@ -162,6 +162,7 @@
 }
 .owl-carousel .owl-item img {
     transform-style: preserve-3d;
+    height: 200px;
 }
 .owl-carousel .owl-video-wrapper {
     position: relative;
